@@ -14,3 +14,9 @@ https://www.youtube.com/watch?v=yqeYdRVCawo
 - 2 Baterias 3.7v
 - Chasis
 - Cables
+
+# Como cargar
+
+Para cargar el codigo en el Esp32 Cam debemos seleccionar la placa "Al Thinker ESP32-CAM"
+
+![image](https://user-images.githubusercontent.com/85527788/201769114-95bbd559-9398-43c4-b666-0040048504e9.png)
