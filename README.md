@@ -17,6 +17,12 @@ https://www.youtube.com/watch?v=yqeYdRVCawo
 
 # Como cargar
 
-Para cargar el codigo en el Esp32 Cam debemos seleccionar la placa "Al Thinker ESP32-CAM"
+Para cargar el código en el Esp32 Cam debemos seleccionar la placa "Al Thinker ESP32-CAM"
 
 ![image](https://user-images.githubusercontent.com/85527788/201769114-95bbd559-9398-43c4-b666-0040048504e9.png)
+
+Una vez que cargamos el codigo abrimos el monitor serie
+
+![image](https://user-images.githubusercontent.com/85527788/201769750-4354af9d-5954-41cf-b190-67c8a30435b5.png)
+ 
+ Y veremos la dirección IP donde debemos dirigirnos para controlar el Auto Robot.
