@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=yqeYdRVCawo
 
 - Esp32 Cam
 - Puente H L298N 
-- 4 Motoreductor DC
+- 4 Motoreductores DC
 - 2 Baterias 3.7v
 - Chasis
 - Cables
