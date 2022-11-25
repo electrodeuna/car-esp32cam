@@ -2,6 +2,8 @@
 
 Proyecto para hacer un Auto Robot con cámara, usando el Esp32-Cam y controlado con el celular.
 
+![image](https://user-images.githubusercontent.com/85527788/204059834-a06bc2eb-79a1-4142-b5d3-b543b0c3a466.png)
+
 Video 
 
 https://www.youtube.com/watch?v=yqeYdRVCawo
