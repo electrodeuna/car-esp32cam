@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=yqeYdRVCawo
 ![image](https://user-images.githubusercontent.com/85527788/201770023-2a1afbc4-b9f1-4b09-a224-7e2a6c8b8905.png)
  
  Y veremos la dirección IP donde debemos dirigirnos para controlar el Auto Robot.
+
+## Observaciones
+
+Reemplazar en el codigo el Wifi y la contraseña para que el Esp32-Cam pueda conectarse a Internet
